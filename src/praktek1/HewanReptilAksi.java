@@ -11,6 +11,6 @@ package praktek1;
  */
 public class HewanReptilAksi {
     public static void main(String[] args) {
-        
+        HewanReptil Cobra = new HewanReptil();
     }
 }
